@@ -19,7 +19,7 @@
   <img align="center" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
 </div>
 
-### Eu amo essa cobrinha;
+### Eu adoro esses bancos de dados;
 
 <div style="display: inline-block">
   <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
