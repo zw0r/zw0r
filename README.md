@@ -1,6 +1,6 @@
-### Opa, traquilo? Pode me chamar de biel 😄
+### Opa, suave? Pode me chamar de biel 😄
 
-- 🤔 Estudando o mundo do full-stack;
+- 🤔 Estudando o mundo da progamação;
 - 📫 Entre em contato: elsensaegusa@gmail.com
 
 <img align="right" src="https://media.discordapp.net/attachments/924384834225319986/952725127626375188/yooout.gif?width=256&height=256">
